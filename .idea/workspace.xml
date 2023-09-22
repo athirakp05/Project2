@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f7fd20b-aaca-4741-801e-16a25fa3f78c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Downloads/project3/project3/app/Http/Controllers/ImageUpload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp1111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp122.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/popeven.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/sumlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO3/exp233.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO3/exp33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO3/graphics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO3/graphics/circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO3/graphics/graphics3d/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO3/graphics/graphics3d/cuboid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO3/graphics/graphics3d/sphere.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO3/graphics/rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO4/10-12HW/HW2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO4/10-12HW/HW4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO4/10-12HW/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO4/10-12HW/compare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO4/10-12HW/complex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO4/10-12HW/exp37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO4/10-12HW/exp38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO4/10-12HW/hw1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO4/10-12HW/hw3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO4/exp34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO4/exp35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO4/exp36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO4/numberoperations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/Exp40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/dep.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/exp39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/exp41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/exp42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/exp43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/exp44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/exp45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/extraQues/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/extraQues/demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/extraQues/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/extraQues/q10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/extraQues/q11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/extraQues/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/extraQues/q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/extraQues/q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/extraQues/q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/extraQues/q6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/extraQues/q7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/extraQues/q8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/extraQues/q9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/examstudy/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/examstudy/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/project3/project3/app/Http/Controllers/StudentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/project3/project3/app/Http/Controllers/StudentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/project3/project3/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/project3/project3/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/project3/project3/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/project3/project3/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/pythonProject/athira kp/areacircle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/pythonProject/athira kp/biggest.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/pythonProject/athira kp/colors.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/pythonProject/athira kp/exp1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/pythonProject/athira kp/exp3.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/pythonProject/athira kp/exp4.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/aaa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/pythonProject/athira kp/gcd.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/pythonProject/athira kp/ing.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/exp27.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/pythonProject/athira kp/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/pythonProject/athira kp/popeven.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/pythonProject/athira kp/string.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/string.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PycharmProjects/pythonProject" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JdsJKJoZDHkwH9wPfxaBxOYTlG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/athir/PycharmProjects/pythonProject/CO5&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\athir\PycharmProjects\pythonProject\CO5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.aaa">
+    <configuration name="aaa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/aaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/pythonProject/CO1 and CO2/list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="personal diary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="athir" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/pythonProject1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/pythonProject1/personal diary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="project" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/pythonProject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/pythonProject/project.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="q8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/extraQues" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/pythonProject/CO5/extraQues/q8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.aaa" />
+        <item itemvalue="Python.list" />
+        <item itemvalue="Python.project" />
+        <item itemvalue="Python.personal diary" />
+        <item itemvalue="Python.q8" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f7fd20b-aaca-4741-801e-16a25fa3f78c" name="Changes" comment="" />
+      <created>1672419221347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672419221347</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
